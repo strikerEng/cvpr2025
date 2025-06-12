@@ -8,7 +8,7 @@ This approach extends traditional RAG by handling multiple data types during bot
 
 ## Architecture
 
-![](/notes/multimodalRAG.png)
+![](multimodalRAG.png)
 
 This is just for multimodal RAG that all report to a Vector database. If not reporting to one Vector database then each data format will store in its own data store.
 
